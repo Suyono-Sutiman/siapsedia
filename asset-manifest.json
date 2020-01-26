@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/siapsedia/static/css/main.dd2ad279.chunk.css",
-    "main.js": "/siapsedia/static/js/main.062d9fcb.chunk.js",
-    "main.js.map": "/siapsedia/static/js/main.062d9fcb.chunk.js.map",
+    "main.css": "/siapsedia/static/css/main.28c49e65.chunk.css",
+    "main.js": "/siapsedia/static/js/main.967bfd3e.chunk.js",
+    "main.js.map": "/siapsedia/static/js/main.967bfd3e.chunk.js.map",
     "runtime-main.js": "/siapsedia/static/js/runtime-main.4fd799f1.js",
     "runtime-main.js.map": "/siapsedia/static/js/runtime-main.4fd799f1.js.map",
     "static/css/2.47e06e2e.chunk.css": "/siapsedia/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.ea867748.chunk.js": "/siapsedia/static/js/2.ea867748.chunk.js",
-    "static/js/2.ea867748.chunk.js.map": "/siapsedia/static/js/2.ea867748.chunk.js.map",
+    "static/js/2.682ae860.chunk.js": "/siapsedia/static/js/2.682ae860.chunk.js",
+    "static/js/2.682ae860.chunk.js.map": "/siapsedia/static/js/2.682ae860.chunk.js.map",
     "index.html": "/siapsedia/index.html",
-    "precache-manifest.21a37831c801086e8791ab9007f15c05.js": "/siapsedia/precache-manifest.21a37831c801086e8791ab9007f15c05.js",
+    "precache-manifest.96e210332e95b87285f3618ff8a85234.js": "/siapsedia/precache-manifest.96e210332e95b87285f3618ff8a85234.js",
     "service-worker.js": "/siapsedia/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/siapsedia/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.dd2ad279.chunk.css.map": "/siapsedia/static/css/main.dd2ad279.chunk.css.map",
-    "static/js/2.ea867748.chunk.js.LICENSE": "/siapsedia/static/js/2.ea867748.chunk.js.LICENSE",
+    "static/css/main.28c49e65.chunk.css.map": "/siapsedia/static/css/main.28c49e65.chunk.css.map",
+    "static/js/2.682ae860.chunk.js.LICENSE": "/siapsedia/static/js/2.682ae860.chunk.js.LICENSE",
     "static/media/adult-beautiful-elegant-eyewear-291762.jpg": "/siapsedia/static/media/adult-beautiful-elegant-eyewear-291762.8dbfc2a9.jpg",
     "static/media/aperture-black-blur-brand-279906.jpg": "/siapsedia/static/media/aperture-black-blur-brand-279906.7b6dbc2e.jpg",
     "static/media/apple-devices-cellphone-close-up-electronics-341523.jpg": "/siapsedia/static/media/apple-devices-cellphone-close-up-electronics-341523.8226dca6.jpg",
@@ -30,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.4fd799f1.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.ea867748.chunk.js",
-    "static/css/main.dd2ad279.chunk.css",
-    "static/js/main.062d9fcb.chunk.js"
+    "static/js/2.682ae860.chunk.js",
+    "static/css/main.28c49e65.chunk.css",
+    "static/js/main.967bfd3e.chunk.js"
   ]
 }
