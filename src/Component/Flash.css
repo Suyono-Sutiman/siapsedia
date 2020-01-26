@@ -1,0 +1,100 @@
+.f-text {
+    display: flex;
+    background: #e7e8ec;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 7px 8px 0 8px;
+}
+
+.p-k {
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 0;
+}
+
+.p-l {
+    margin-bottom: 0;
+    font-size: 14px;
+    color: #1a9cb7;
+}
+
+.timer {
+    width: 100%;
+    height: 42px;
+    background: #d3232a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.p-timer {
+    margin-bottom: 0px;
+    margin-right: 10px;
+}
+
+.tick {
+    width: 30px;
+    height: 30px;
+    color: black;
+    background: white;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 12%;
+    font-weight: 500;
+    margin: 0 5px;
+}
+
+.promo {
+    display: flex;
+}
+
+.promo-k {
+    flex: 50%;
+    padding: 0 4px;
+    border-right: 1px solid #e7e8ec;
+}
+
+.promo-l {
+    display: flex;
+    flex-direction: column;
+}
+
+.promo-l-1 {
+    display: flex;
+    align-items: center;
+}
+
+.g-promo {
+    width: 100%;
+    margin-top: 8px;
+    vertical-align: middle;
+    box-shadow: 0 0 2px 0 rgba(0,0,0,.12), 0 2px 2px 0 rgba(0,0,0,.24);
+}
+
+.g-promo1 {
+    width: 40%;
+    margin-top: 8px;
+    vertical-align: middle;
+    box-shadow: 0 0 2px 0 rgba(0,0,0,.12), 0 2px 2px 0 rgba(0,0,0,.24);
+}
+
+.harga {
+    margin-bottom: 0px;
+    padding-left: 16px;
+    font-size: 14px;
+    font-weight: 600;
+    color: tomato;
+}
+
+.diskon {
+    margin-bottom: 0px;
+    padding-left: 16px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+del {
+    font-size: 12px;
+    color: #757575;
+}

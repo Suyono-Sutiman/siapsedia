@@ -5,6 +5,8 @@ import Search from './Component/Search';
 import Slide from './Component/Slide';
 import Footer from './Component/Footer';
 import Partner from './Component/Partner';
+import Flash from './Component/Flash';
+import Popular from './Component/Popular';
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
      <Slide/>
      <Footer/>
      <Partner/>
+     <Flash/>
+     <Popular/>
     </div>
   );
 }

@@ -1,0 +1,45 @@
+.pop {
+    background: #e7e8ec;
+}
+
+.p-pop {
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 0;
+    padding: 20px 8px 0 8px;
+}
+
+.pop-i {
+    display: flex;
+    background: white;
+}
+
+.pop-2 {
+    flex: 50%;
+    border: 1px solid #e7e8ec;
+}
+
+.pop-3 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.g-pop {
+    width: 50%;
+    height: auto;
+    box-shadow: 0 0 2px 0 rgba(0,0,0,.12), 0 2px 2px 0 rgba(0,0,0,.24);
+    margin: 8px 0;
+}
+
+.p-big {
+    margin-bottom: 0px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.p-sml {
+    font-size: 12px;
+    color: #757575;
+    margin-bottom: 0px;
+}
