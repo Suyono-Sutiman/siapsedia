@@ -7,6 +7,7 @@ import Footer from './Component/Footer';
 import Partner from './Component/Partner';
 import Flash from './Component/Flash';
 import Popular from './Component/Popular';
+import Collection from './Component/Collection';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
      <Partner/>
      <Flash/>
      <Popular/>
+     <Collection/>
     </div>
   );
 }
