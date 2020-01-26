@@ -1,0 +1,29 @@
+.fa-ico {
+    width: 40px;
+    height: 40px;
+    color: tomato;
+    background: white;
+    border-radius: 40%;
+    box-shadow: 0 0 2px 0 rgba(0,0,0,.12), 0 2px 2px 0 rgba(0,0,0,.24);
+}
+
+.p-part {
+    font-size: 12px;
+}
+
+.part {
+    background: #e7e8ec;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.as {
+    color: #757575;
+}
+
+.part1 {
+    text-align: center;
+    width: 50px;
+    padding-top: 16px;
+}

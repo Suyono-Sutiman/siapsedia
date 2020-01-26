@@ -1,0 +1,14 @@
+.atas {
+    width: 100%;
+    padding-top: 20%;
+    height: 0;
+    background-size: 100% 100%;
+    background-image: url(../Image/banner.png);
+}
+
+@media (min-width:768px) {
+    .atas {
+        background-image: url(../Image/banner2.png);
+        padding-top: 10%;
+    }
+}

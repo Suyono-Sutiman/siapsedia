@@ -1,0 +1,33 @@
+.logo1 {
+    width: 25px;
+    height: 25px;
+}
+
+.p-foot {
+    font-size: 12px;
+    font-weight: 400;
+    margin: 0px;
+}
+
+.foot {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: white;
+}
+
+.logo {
+    text-align: center;
+}
+
+a {
+    color: #59818e;
+}
+
+a:hover {
+    color: #f57224;
+    text-decoration: none;
+}
