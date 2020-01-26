@@ -1,25 +1,30 @@
 {
   "files": {
-    "main.css": "/siapsedia/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/siapsedia/static/js/main.008aa35a.chunk.js",
-    "main.js.map": "/siapsedia/static/js/main.008aa35a.chunk.js.map",
+    "main.css": "/siapsedia/static/css/main.3fa224ea.chunk.css",
+    "main.js": "/siapsedia/static/js/main.9324788e.chunk.js",
+    "main.js.map": "/siapsedia/static/js/main.9324788e.chunk.js.map",
     "runtime-main.js": "/siapsedia/static/js/runtime-main.4fd799f1.js",
     "runtime-main.js.map": "/siapsedia/static/js/runtime-main.4fd799f1.js.map",
-    "static/css/2.ff8bd605.chunk.css": "/siapsedia/static/css/2.ff8bd605.chunk.css",
-    "static/js/2.9d6c3f8a.chunk.js": "/siapsedia/static/js/2.9d6c3f8a.chunk.js",
-    "static/js/2.9d6c3f8a.chunk.js.map": "/siapsedia/static/js/2.9d6c3f8a.chunk.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/siapsedia/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.03a9a080.chunk.js": "/siapsedia/static/js/2.03a9a080.chunk.js",
+    "static/js/2.03a9a080.chunk.js.map": "/siapsedia/static/js/2.03a9a080.chunk.js.map",
     "index.html": "/siapsedia/index.html",
-    "precache-manifest.b35a66f17197c7bc76117a27a7ed1317.js": "/siapsedia/precache-manifest.b35a66f17197c7bc76117a27a7ed1317.js",
+    "precache-manifest.11dddc001812e88b95eae94b0b2603c0.js": "/siapsedia/precache-manifest.11dddc001812e88b95eae94b0b2603c0.js",
     "service-worker.js": "/siapsedia/service-worker.js",
-    "static/css/2.ff8bd605.chunk.css.map": "/siapsedia/static/css/2.ff8bd605.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/siapsedia/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.9d6c3f8a.chunk.js.LICENSE": "/siapsedia/static/js/2.9d6c3f8a.chunk.js.LICENSE"
+    "static/css/2.47e06e2e.chunk.css.map": "/siapsedia/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.3fa224ea.chunk.css.map": "/siapsedia/static/css/main.3fa224ea.chunk.css.map",
+    "static/js/2.03a9a080.chunk.js.LICENSE": "/siapsedia/static/js/2.03a9a080.chunk.js.LICENSE",
+    "static/media/adult-beautiful-elegant-eyewear-291762.jpg": "/siapsedia/static/media/adult-beautiful-elegant-eyewear-291762.8dbfc2a9.jpg",
+    "static/media/Atas.css": "/siapsedia/static/media/banner2.1c98367a.png",
+    "static/media/paper-bags-near-wall-749353.jpg": "/siapsedia/static/media/paper-bags-near-wall-749353.2583f78a.jpg",
+    "static/media/two-women-walking-side-by-side-1426191.jpg": "/siapsedia/static/media/two-women-walking-side-by-side-1426191.260d0ea9.jpg",
+    "static/media/working-macbook-computer-keyboard-34577.jpg": "/siapsedia/static/media/working-macbook-computer-keyboard-34577.2cc98a4e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4fd799f1.js",
-    "static/css/2.ff8bd605.chunk.css",
-    "static/js/2.9d6c3f8a.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.008aa35a.chunk.js"
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.03a9a080.chunk.js",
+    "static/css/main.3fa224ea.chunk.css",
+    "static/js/main.9324788e.chunk.js"
   ]
 }
