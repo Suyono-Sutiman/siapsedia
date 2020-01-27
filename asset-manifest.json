@@ -1,37 +1,37 @@
 {
   "files": {
     "main.css": "/siapsedia/static/css/main.28c49e65.chunk.css",
-    "main.js": "/siapsedia/static/js/main.967bfd3e.chunk.js",
-    "main.js.map": "/siapsedia/static/js/main.967bfd3e.chunk.js.map",
+    "main.js": "/siapsedia/static/js/main.e60a25d1.chunk.js",
+    "main.js.map": "/siapsedia/static/js/main.e60a25d1.chunk.js.map",
     "runtime-main.js": "/siapsedia/static/js/runtime-main.4fd799f1.js",
     "runtime-main.js.map": "/siapsedia/static/js/runtime-main.4fd799f1.js.map",
     "static/css/2.47e06e2e.chunk.css": "/siapsedia/static/css/2.47e06e2e.chunk.css",
     "static/js/2.682ae860.chunk.js": "/siapsedia/static/js/2.682ae860.chunk.js",
     "static/js/2.682ae860.chunk.js.map": "/siapsedia/static/js/2.682ae860.chunk.js.map",
     "index.html": "/siapsedia/index.html",
-    "precache-manifest.96e210332e95b87285f3618ff8a85234.js": "/siapsedia/precache-manifest.96e210332e95b87285f3618ff8a85234.js",
+    "precache-manifest.7d5353c4c575cb895f806ac2cf2e8bc4.js": "/siapsedia/precache-manifest.7d5353c4c575cb895f806ac2cf2e8bc4.js",
     "service-worker.js": "/siapsedia/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/siapsedia/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.28c49e65.chunk.css.map": "/siapsedia/static/css/main.28c49e65.chunk.css.map",
     "static/js/2.682ae860.chunk.js.LICENSE": "/siapsedia/static/js/2.682ae860.chunk.js.LICENSE",
-    "static/media/adult-beautiful-elegant-eyewear-291762.jpg": "/siapsedia/static/media/adult-beautiful-elegant-eyewear-291762.8dbfc2a9.jpg",
-    "static/media/aperture-black-blur-brand-279906.jpg": "/siapsedia/static/media/aperture-black-blur-brand-279906.7b6dbc2e.jpg",
-    "static/media/apple-devices-cellphone-close-up-electronics-341523.jpg": "/siapsedia/static/media/apple-devices-cellphone-close-up-electronics-341523.8226dca6.jpg",
+    "static/media/adult-beautiful-elegant-eyewear-291762.jpg": "/siapsedia/static/media/adult-beautiful-elegant-eyewear-291762.c6d10bb4.jpg",
+    "static/media/aperture-black-blur-brand-279906.jpg": "/siapsedia/static/media/aperture-black-blur-brand-279906.fa9cd11f.jpg",
+    "static/media/apple-devices-cellphone-close-up-electronics-341523.jpg": "/siapsedia/static/media/apple-devices-cellphone-close-up-electronics-341523.f602fd80.jpg",
     "static/media/Atas.css": "/siapsedia/static/media/banner2.1c98367a.png",
-    "static/media/beauty-product-in-pink-color-2720447.jpg": "/siapsedia/static/media/beauty-product-in-pink-color-2720447.bd364af5.jpg",
-    "static/media/black-dslr-camera-on-white-surface-51383.jpg": "/siapsedia/static/media/black-dslr-camera-on-white-surface-51383.062cf318.jpg",
-    "static/media/bottles-on-green-and-brown-moss-3259584.jpg": "/siapsedia/static/media/bottles-on-green-and-brown-moss-3259584.85393a42.jpg",
-    "static/media/caffeine-coffee-coffee-beans-roasted-585750.jpg": "/siapsedia/static/media/caffeine-coffee-coffee-beans-roasted-585750.4433784a.jpg",
-    "static/media/pair-of-beige-leather-open-toe-heeled-platform-shoes-on-1445696.jpg": "/siapsedia/static/media/pair-of-beige-leather-open-toe-heeled-platform-shoes-on-1445696.d8eb9585.jpg",
-    "static/media/paper-bags-near-wall-749353.jpg": "/siapsedia/static/media/paper-bags-near-wall-749353.2583f78a.jpg",
-    "static/media/two-women-walking-side-by-side-1426191.jpg": "/siapsedia/static/media/two-women-walking-side-by-side-1426191.260d0ea9.jpg",
-    "static/media/working-macbook-computer-keyboard-34577.jpg": "/siapsedia/static/media/working-macbook-computer-keyboard-34577.2cc98a4e.jpg"
+    "static/media/beauty-product-in-pink-color-2720447.jpg": "/siapsedia/static/media/beauty-product-in-pink-color-2720447.093c56b6.jpg",
+    "static/media/black-dslr-camera-on-white-surface-51383.jpg": "/siapsedia/static/media/black-dslr-camera-on-white-surface-51383.db8d3ed7.jpg",
+    "static/media/bottles-on-green-and-brown-moss-3259584.jpg": "/siapsedia/static/media/bottles-on-green-and-brown-moss-3259584.f0ec7030.jpg",
+    "static/media/caffeine-coffee-coffee-beans-roasted-585750.jpg": "/siapsedia/static/media/caffeine-coffee-coffee-beans-roasted-585750.9bea3c90.jpg",
+    "static/media/pair-of-beige-leather-open-toe-heeled-platform-shoes-on-1445696.jpg": "/siapsedia/static/media/pair-of-beige-leather-open-toe-heeled-platform-shoes-on-1445696.941003d6.jpg",
+    "static/media/paper-bags-near-wall-749353.jpg": "/siapsedia/static/media/paper-bags-near-wall-749353.6a90bb6b.jpg",
+    "static/media/two-women-walking-side-by-side-1426191.jpg": "/siapsedia/static/media/two-women-walking-side-by-side-1426191.6dd7b6e4.jpg",
+    "static/media/working-macbook-computer-keyboard-34577.jpg": "/siapsedia/static/media/working-macbook-computer-keyboard-34577.570bb528.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4fd799f1.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.682ae860.chunk.js",
     "static/css/main.28c49e65.chunk.css",
-    "static/js/main.967bfd3e.chunk.js"
+    "static/js/main.e60a25d1.chunk.js"
   ]
 }
