@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b0cc0f20809ae4eebc0581f8b2d71f6",
+    "revision": "b675b40dfb115c222953f8f4a2bb6a8c",
     "url": "/siapsedia/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/siapsedia/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "cbb5b1bb7849042646de",
-    "url": "/siapsedia/static/css/main.bad960a7.chunk.css"
+    "revision": "590148f09f6f74166aa8",
+    "url": "/siapsedia/static/css/main.cd70d2a8.chunk.css"
   },
   {
     "revision": "9f0b4a81de6e66325593",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/siapsedia/static/js/2.edb8a574.chunk.js.LICENSE"
   },
   {
-    "revision": "cbb5b1bb7849042646de",
+    "revision": "590148f09f6f74166aa8",
     "url": "/siapsedia/static/js/main.4d0d7fad.chunk.js"
   },
   {

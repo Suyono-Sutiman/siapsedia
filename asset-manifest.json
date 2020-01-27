@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/siapsedia/static/css/main.bad960a7.chunk.css",
+    "main.css": "/siapsedia/static/css/main.cd70d2a8.chunk.css",
     "main.js": "/siapsedia/static/js/main.4d0d7fad.chunk.js",
     "main.js.map": "/siapsedia/static/js/main.4d0d7fad.chunk.js.map",
     "runtime-main.js": "/siapsedia/static/js/runtime-main.4fd799f1.js",
@@ -9,10 +9,10 @@
     "static/js/2.edb8a574.chunk.js": "/siapsedia/static/js/2.edb8a574.chunk.js",
     "static/js/2.edb8a574.chunk.js.map": "/siapsedia/static/js/2.edb8a574.chunk.js.map",
     "index.html": "/siapsedia/index.html",
-    "precache-manifest.2f762129327e73d4c6b6583ed02a9ffd.js": "/siapsedia/precache-manifest.2f762129327e73d4c6b6583ed02a9ffd.js",
+    "precache-manifest.8f7309556a49b6ebeab8c1a2984e679e.js": "/siapsedia/precache-manifest.8f7309556a49b6ebeab8c1a2984e679e.js",
     "service-worker.js": "/siapsedia/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/siapsedia/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.bad960a7.chunk.css.map": "/siapsedia/static/css/main.bad960a7.chunk.css.map",
+    "static/css/main.cd70d2a8.chunk.css.map": "/siapsedia/static/css/main.cd70d2a8.chunk.css.map",
     "static/js/2.edb8a574.chunk.js.LICENSE": "/siapsedia/static/js/2.edb8a574.chunk.js.LICENSE",
     "static/media/abstract-apple-art-black-and-white-434346.jpg": "/siapsedia/static/media/abstract-apple-art-black-and-white-434346.8ebd6bab.jpg",
     "static/media/adult-beautiful-elegant-eyewear-291762.jpg": "/siapsedia/static/media/adult-beautiful-elegant-eyewear-291762.c6d10bb4.jpg",
@@ -45,7 +45,7 @@
     "static/js/runtime-main.4fd799f1.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.edb8a574.chunk.js",
-    "static/css/main.bad960a7.chunk.css",
+    "static/css/main.cd70d2a8.chunk.css",
     "static/js/main.4d0d7fad.chunk.js"
   ]
 }
