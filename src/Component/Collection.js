@@ -10,9 +10,14 @@ import col6 from '../Image/black-dslr-camera-on-white-surface-51383.jpg';
 function Collection () {
     return (
         <div className='collect'>
-            <p className='p-coll'>
+            <div className='f-text'>
+            <p className='p-amall'>
                 Collection
             </p>
+            <p className='p-l'>
+                Shop More
+            </p>
+            </div>
             <div className='scroll-img'>
                 <div className='gmb'>
                     <img src={col1} alt='siji' className='sc-img'/>

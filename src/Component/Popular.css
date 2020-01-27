@@ -17,6 +17,7 @@
 .pop-2 {
     flex: 50%;
     border: 1px solid #e7e8ec;
+    text-align: center;
 }
 
 .pop-3 {
@@ -29,6 +30,12 @@
     width: 50%;
     height: auto;
     box-shadow: 0 0 2px 0 rgba(0,0,0,.12), 0 2px 2px 0 rgba(0,0,0,.24);
+    margin: 8px 0;
+}
+
+.g-pop1 {
+    width: 95%;
+    height: auto;
     margin: 8px 0;
 }
 

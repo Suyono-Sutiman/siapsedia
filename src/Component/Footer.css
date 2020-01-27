@@ -17,6 +17,11 @@
     bottom: 0;
     width: 100%;
     background: white;
+    transition: bottom 0.8s;
+}
+
+.foot--hidden {
+    bottom: -45px;
 }
 
 .logo {

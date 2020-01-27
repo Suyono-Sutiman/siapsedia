@@ -1,0 +1,52 @@
+.amall {
+    background: #e7e8ec;
+}
+
+.p-amall {
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 0;
+}
+
+.sc-img-amal {
+    width: 100%;
+    height: auto;
+}
+
+.scroll-amal {
+    overflow: auto;
+    white-space: nowrap;
+}
+
+.p-siji-amal {
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+
+.p-loro-amal {
+    font-size: 12px;
+    color: #757575;
+    margin-bottom: 0px;
+}
+
+.gmb-am {
+    background: white;
+    display: inline-block;
+    padding: 0px;
+    width: 45%;
+    margin: 4px;
+    margin-bottom: 0px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.famal {
+    width: 54px;
+    height: 54px;
+    background: white;
+    border: 3px solid #e7e8ec;
+    color: tomato;
+    margin-top: -24px;
+    margin-bottom: 12px;
+}

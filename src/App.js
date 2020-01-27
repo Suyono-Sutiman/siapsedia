@@ -8,6 +8,8 @@ import Partner from './Component/Partner';
 import Flash from './Component/Flash';
 import Popular from './Component/Popular';
 import Collection from './Component/Collection';
+import Amall from './Component/Amall';
+import Categories from './Component/Categories';
 
 function App() {
   return (
@@ -20,6 +22,8 @@ function App() {
      <Flash/>
      <Popular/>
      <Collection/>
+     <Amall/>
+     <Categories/>
     </div>
   );
 }
