@@ -5,25 +5,28 @@ import Search from './Component/Search';
 import Slide from './Component/Slide';
 import Footer from './Component/Footer';
 import Partner from './Component/Partner';
-import Flash from './Component/Flash';
-import Popular from './Component/Popular';
-import Collection from './Component/Collection';
-import Amall from './Component/Amall';
-import Categories from './Component/Categories';
+const Flash = React.lazy(() => import('./Component/Flash'));
+const Popular = React.lazy(() => import('./Component/Popular'));
+const Collection = React.lazy(() => import('./Component/Collection'));
+const Amall = React.lazy(() => import('./Component/Amall'));
+const Categories = React.lazy(() => import('./Component/Categories'));
 
 function App() {
   return (
     <div>
-     <Atas/>
+      <Atas/>
      <Search/>
-     <Slide/>
      <Footer/>
+     <Slide/>
      <Partner/>
+     
+     <React.Suspense fallback={<div>Loading...</div>} >
      <Flash/>
      <Popular/>
      <Collection/>
      <Amall/>
      <Categories/>
+     </React.Suspense>
     </div>
   );
 }
