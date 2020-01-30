@@ -5,11 +5,13 @@ import Search from './Component/Search';
 import Slide from './Component/Slide';
 import Footer from './Component/Footer';
 import Partner from './Component/Partner';
-const Flash = React.lazy(() => import('./Component/Flash'));
-const Popular = React.lazy(() => import('./Component/Popular'));
-const Collection = React.lazy(() => import('./Component/Collection'));
-const Amall = React.lazy(() => import('./Component/Amall'));
-const Categories = React.lazy(() => import('./Component/Categories'));
+import Pick from './Component/Pick';
+import LazyLoad from 'react-lazyload';
+import Flash from './Component/Flash';
+import Popular from './Component/Popular';
+import Collection from './Component/Collection';
+import Amall from './Component/Amall';
+import Categories from './Component/Categories';
 
 function App() {
   return (
@@ -19,14 +21,14 @@ function App() {
      <Footer/>
      <Slide/>
      <Partner/>
-     
-     <React.Suspense fallback={<div>Loading...</div>} >
+     <LazyLoad height='200'>
      <Flash/>
      <Popular/>
      <Collection/>
      <Amall/>
      <Categories/>
-     </React.Suspense>
+     <Pick/>
+     </LazyLoad>
     </div>
   );
 }

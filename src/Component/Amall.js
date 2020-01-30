@@ -7,6 +7,7 @@ import amal4 from '../Image/pair-of-white-air-jordan-1-s-2385477.jpg';
 import amal5 from '../Image/pepsi-cola-bottle-988954.jpg';
 import {FaAmazon, FaEbay} from 'react-icons/fa';
 import {AiOutlineAlibaba, AiFillTaobaoSquare, AiOutlineApple} from 'react-icons/ai';
+import LazyLoad from 'react-lazyload';
 
 class Amall extends React.Component {
     render () {
@@ -22,7 +23,9 @@ class Amall extends React.Component {
             </div>
             <div className='scroll-amal'>
                 <div className='gmb-am'>
+                <LazyLoad height='200'>
                     <img src={amal1} alt='siji' className='sc-img-amal'/>
+                </LazyLoad>
                     <div>
                     <AiOutlineApple className='famal'/>
                     </div>
@@ -30,7 +33,9 @@ class Amall extends React.Component {
                     <p className='p-loro-amal'>Think Different</p>
                 </div>
                 <div className='gmb-am'>
+                <LazyLoad height='200'>
                     <img src={amal2} alt='siji' className='sc-img-amal'/>
+                </LazyLoad>
                     <div>
                     <FaEbay className='famal'/>
                     </div>
@@ -38,7 +43,9 @@ class Amall extends React.Component {
                     <p className='p-loro-amal'>Buy it, sell it</p>
                 </div>
                 <div className='gmb-am'>
+                <LazyLoad height='200'>
                     <img src={amal3} alt='siji' className='sc-img-amal'/>
+                </LazyLoad>
                     <div>
                     <AiOutlineAlibaba className='famal'/>
                     </div>
@@ -46,7 +53,9 @@ class Amall extends React.Component {
                     <p className='p-loro-amal'>Ready for more</p>
                 </div>
                 <div className='gmb-am'>
+                <LazyLoad height='200'>
                     <img src={amal4} alt='siji' className='sc-img-amal'/>
+                </LazyLoad>
                     <div>
                     <AiFillTaobaoSquare className='famal'/>
                     </div>
@@ -54,7 +63,9 @@ class Amall extends React.Component {
                     <p className='p-loro-amal'>Capture different</p>
                 </div>
                 <div className='gmb-am'>
+                <LazyLoad height='200'>
                     <img src={amal5} alt='siji' className='sc-img-amal'/>
+                </LazyLoad>
                     <div>
                     <FaAmazon className='famal'/>
                     </div>
