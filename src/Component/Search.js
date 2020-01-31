@@ -1,13 +1,15 @@
 import React from 'react';
 import {InputGroup, FormControl} from 'react-bootstrap';
-import {IoIosSearch} from 'react-icons/io';
+import {IoIosSearch, IoMdCart} from 'react-icons/io';
+import logo from '../Image/favicon.png'
 import './Search.css';
 
 class Search extends React.Component {
     state = {
         background: '',
         opacity: '',
-        boxShadow: '0 0 2px 0 rgba(0,0,0,.12), 0 2px 2px 0 rgba(0,0,0,.24)'
+        boxShadow: '0 0 2px 0 rgba(0,0,0,.12), 0 2px 2px 0 rgba(0,0,0,.24)',
+        display: ''
       }
     
       listenScrollEvent = e => {
@@ -21,7 +23,18 @@ class Search extends React.Component {
           this.setState({
             background: '',
             opacity: '0',
-            boxShadow:'0 0 2px 0 rgba(0,0,0,.12), 0 2px 2px 0 rgba(0,0,0,.24)'})
+            boxShadow:'0 0 2px 0 rgba(0,0,0,.12), 0 2px 2px 0 rgba(0,0,0,.24)'
+          })
+        }
+        if (window.scrollY > 1500) {
+          this.setState ({
+            display: 'none'
+          })
+        }
+        if (window.scrollY < 1500) {
+          this.setState ({
+            display: ''
+          })
         }
       }
     
@@ -30,14 +43,33 @@ class Search extends React.Component {
       }
     render () {
         return (
-            <div className='ser'  >
-              <div style={{
+          <div className='ser'>
+            <div className='tp-d' style={{display: this.state.display}} >
+              <p className='tp'>Save More On App</p>
+              <p className='tp'>Sell On SiapSedia</p>
+              <p className='tp'>Customer Care</p>
+              <p className='tp'>Track My Order</p>
+              <p className='tp'>Login</p>
+              <p className='tp'>Sign Up</p>
+            </div>
+            <div className='des'>
+              <img src={logo} alt='logo' className='lo'/>
+              <p className='judul'>SiapSedia</p>
+              <div className="search-container">
+                <form>
+                  <input type="text" placeholder="Search.." name="search"/>
+                  <button type="submit"><IoIosSearch/></button>
+                </form>
+              </div>
+              <IoMdCart className='cart'/>
+            </div>
+            <div style={{
                 background: this.state.background,
                 transition: this.state.transition,
                 opacity: this.state.opacity
                 }}
                 className='d-bg'>
-                </div>
+            </div>
             <InputGroup className="inp1" style={{boxShadow: this.state.boxShadow}} >
                 <InputGroup.Prepend>
                 <InputGroup.Text id="lop"><IoIosSearch/></InputGroup.Text>
@@ -49,7 +81,7 @@ class Search extends React.Component {
                 className='fom'
                 />
             </InputGroup>
-            </div>
+          </div>
         )
     }
 }

@@ -28,3 +28,79 @@
     height: 66px;
     margin-bottom: -54px;
 }
+
+.lo {
+    width: 40px;
+    height: auto;
+    margin-left: 4%;
+}
+
+input[type=text] {
+    padding: 6px;
+    font-size: 17px;
+    border: none;
+    width: 80%;
+    background: #e7e8ec;
+}
+
+button {
+    padding: 6px 10px;
+    margin-right: 16px;
+    background: #f57224;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
+
+.des {
+    display: flex;
+    align-items: center;
+    padding: 20px 0;
+    background: white;
+}
+
+.judul {
+    margin: 0px;
+    color: #0008ff;
+    font-size: 22px;
+    font-weight: 800;
+}
+
+.search-container {
+    width: 70%;
+}
+
+.cart {
+    width: 30px;
+    height: auto;
+    margin-right: 10%;
+}
+
+.tp-d {
+    background: #e7e8ec;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.tp {
+    margin-bottom: 0px;
+    padding: 0 12px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+@media (max-width:767px) {
+    .tp-d, .des {
+        display: none;
+    }
+}
+
+@media (min-width:768px) {
+    .inp1, .d-bg {
+        display: none;
+    }
+    .ser {
+        margin-bottom: 0px;
+    }
+}
